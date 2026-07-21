@@ -1,5 +1,5 @@
 
-# Arbitrage Bot with Built-in Python Automation
+# MEV Arbitrage Bot for Ethereum — Smart Contract + Python Automation. Finds and executes arbitrage between Uniswap pools and routers.
 
 
 
